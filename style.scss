@@ -1,0 +1,354 @@
+@import "variables";
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('#{$icomoon-font-path}/icomoon.eot?ipedrz');
+  src:  url('#{$icomoon-font-path}/icomoon.eot?ipedrz#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/icomoon.ttf?ipedrz') format('truetype'),
+    url('#{$icomoon-font-path}/icomoon.woff?ipedrz') format('woff'),
+    url('#{$icomoon-font-path}/icomoon.svg?ipedrz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ic-connected {
+  &:before {
+    content: $icon-ic-connected; 
+  }
+}
+.icon-ic-message-notif {
+  &:before {
+    content: $icon-ic-message-notif; 
+  }
+}
+.icon-ic-share-profile {
+  &:before {
+    content: $icon-ic-share-profile; 
+  }
+}
+.icon-ic-user-star {
+  &:before {
+    content: $icon-ic-user-star; 
+  }
+}
+.icon-ic-member-group {
+  &:before {
+    content: $icon-ic-member-group; 
+  }
+}
+.icon-ic-jobs {
+  &:before {
+    content: $icon-ic-jobs; 
+  }
+}
+.icon-ic-message {
+  &:before {
+    content: $icon-ic-message; 
+  }
+}
+.icon-ic-companies {
+  &:before {
+    content: $icon-ic-companies; 
+  }
+}
+.icon-ic-dashboard {
+  &:before {
+    content: $icon-ic-dashboard; 
+  }
+}
+.icon-ic-advice {
+  &:before {
+    content: $icon-ic-advice; 
+  }
+}
+.icon-ic-call-back {
+  &:before {
+    content: $icon-ic-call-back; 
+  }
+}
+.icon-ic-draft {
+  &:before {
+    content: $icon-ic-draft; 
+  }
+}
+.icon-ic-job-search {
+  &:before {
+    content: $icon-ic-job-search; 
+  }
+}
+.icon-ic-clock {
+  &:before {
+    content: $icon-ic-clock; 
+  }
+}
+.icon-ic-clockforward {
+  &:before {
+    content: $icon-ic-clockforward; 
+  }
+}
+.icon-ic-ligthning {
+  &:before {
+    content: $icon-ic-ligthning; 
+  }
+}
+.icon-ic-member-search {
+  &:before {
+    content: $icon-ic-member-search; 
+  }
+}
+.icon-ic-wavinghand {
+  &:before {
+    content: $icon-ic-wavinghand; 
+  }
+}
+.icon-ic-finger-up {
+  &:before {
+    content: $icon-ic-finger-up; 
+  }
+}
+.icon-ic-nomail {
+  &:before {
+    content: $icon-ic-nomail; 
+  }
+}
+.icon-ic-tc {
+  &:before {
+    content: $icon-ic-tc; 
+  }
+}
+.icon-ic-index-in {
+  &:before {
+    content: $icon-ic-index-in; 
+  }
+}
+.icon-ic-index-out {
+  &:before {
+    content: $icon-ic-index-out; 
+  }
+}
+.icon-ic-mobile {
+  &:before {
+    content: $icon-ic-mobile; 
+  }
+}
+.icon-ic-availability {
+  &:before {
+    content: $icon-ic-availability; 
+  }
+}
+.icon-ic-status {
+  &:before {
+    content: $icon-ic-status; 
+  }
+}
+.icon-ic-removeteam {
+  &:before {
+    content: $icon-ic-removeteam; 
+  }
+}
+.icon-ic-inviteteam {
+  &:before {
+    content: $icon-ic-inviteteam; 
+  }
+}
+.icon-ic-permissions {
+  &:before {
+    content: $icon-ic-permissions; 
+  }
+}
+.icon-ic-fa-hosco {
+  &:before {
+    content: $icon-ic-fa-hosco; 
+  }
+}
+.icon-ic-burger {
+  &:before {
+    content: $icon-ic-burger; 
+  }
+}
+.icon-ic-round-fb {
+  &:before {
+    content: $icon-ic-round-fb; 
+  }
+}
+.icon-ic-round-hosco {
+  &:before {
+    content: $icon-ic-round-hosco; 
+  }
+}
+.icon-ic-round-insta {
+  &:before {
+    content: $icon-ic-round-insta; 
+  }
+}
+.icon-ic-round-linkd {
+  &:before {
+    content: $icon-ic-round-linkd; 
+  }
+}
+.icon-ic-round-twtt {
+  &:before {
+    content: $icon-ic-round-twtt; 
+  }
+}
+.icon-ic-round-yt {
+  &:before {
+    content: $icon-ic-round-yt; 
+  }
+}
+.icon-ic-spj {
+  &:before {
+    content: $icon-ic-spj; 
+  }
+}
+.icon-ic-laurea {
+  &:before {
+    content: $icon-ic-laurea; 
+  }
+}
+.icon-ic-targeted {
+  &:before {
+    content: $icon-ic-targeted; 
+  }
+}
+.icon-ic-premiumlight {
+  &:before {
+    content: $icon-ic-premiumlight; 
+  }
+}
+.icon-ic-premium {
+  &:before {
+    content: $icon-ic-premium; 
+  }
+}
+.icon-ic-premiumplus {
+  &:before {
+    content: $icon-ic-premiumplus; 
+  }
+}
+.icon-ic-thumbsup {
+  &:before {
+    content: $icon-ic-thumbsup; 
+  }
+}
+.icon-ic-handshake {
+  &:before {
+    content: $icon-ic-handshake; 
+  }
+}
+.icon-ic-love-thanks {
+  &:before {
+    content: $icon-ic-love-thanks; 
+  }
+}
+.icon-ic-hand-stop {
+  &:before {
+    content: $icon-ic-hand-stop; 
+  }
+}
+.icon-ic-neck-tie {
+  &:before {
+    content: $icon-ic-neck-tie; 
+  }
+}
+.icon-ic-who {
+  &:before {
+    content: $icon-ic-who; 
+  }
+}
+.icon-ic-jobalert-modal {
+  &:before {
+    content: $icon-ic-jobalert-modal; 
+  }
+}
+.icon-ic-update {
+  &:before {
+    content: $icon-ic-update; 
+  }
+}
+.icon-ic-hosco-shine {
+  &:before {
+    content: $icon-ic-hosco-shine; 
+  }
+}
+.icon-ic-rocket2 {
+  &:before {
+    content: $icon-ic-rocket2; 
+  }
+}
+.icon-ic-erase {
+  &:before {
+    content: $icon-ic-erase; 
+  }
+}
+.icon-ic-jobapp-rejected {
+  &:before {
+    content: $icon-ic-jobapp-rejected; 
+  }
+}
+.icon-ic-jobapp-sent {
+  &:before {
+    content: $icon-ic-jobapp-sent; 
+  }
+}
+.icon-ic-jobapp {
+  &:before {
+    content: $icon-ic-jobapp; 
+  }
+}
+.icon-ic-remove {
+  &:before {
+    content: $icon-ic-remove; 
+  }
+}
+.icon-hoscicons_story {
+  &:before {
+    content: $icon-hoscicons_story; 
+  }
+}
+.icon-hoscicons_cross {
+  &:before {
+    content: $icon-hoscicons_cross; 
+  }
+}
+.icon-hoscicons_heartbroken {
+  &:before {
+    content: $icon-hoscicons_heartbroken; 
+  }
+}
+.icon-hoscicons_messagesent {
+  &:before {
+    content: $icon-hoscicons_messagesent; 
+  }
+}
+.icon-hoscicons_nationality {
+  &:before {
+    content: $icon-hoscicons_nationality; 
+  }
+}
+.icon-hoscicons_review {
+  &:before {
+    content: $icon-hoscicons_review; 
+  }
+}
+.icon-hoscicons_login {
+  &:before {
+    content: $icon-hoscicons_login; 
+  }
+}
+

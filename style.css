@@ -1,0 +1,221 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ipedrz');
+  src:  url('fonts/icomoon.eot?ipedrz#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ipedrz') format('truetype'),
+    url('fonts/icomoon.woff?ipedrz') format('woff'),
+    url('fonts/icomoon.svg?ipedrz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ic-connected:before {
+  content: "\e938";
+}
+.icon-ic-message-notif:before {
+  content: "\e937";
+}
+.icon-ic-share-profile:before {
+  content: "\e97d";
+}
+.icon-ic-user-star:before {
+  content: "\e97a";
+}
+.icon-ic-member-group:before {
+  content: "\e97b";
+}
+.icon-ic-jobs:before {
+  content: "\e985";
+}
+.icon-ic-message:before {
+  content: "\e986";
+}
+.icon-ic-companies:before {
+  content: "\e987";
+}
+.icon-ic-dashboard:before {
+  content: "\e988";
+}
+.icon-ic-advice:before {
+  content: "\e989";
+}
+.icon-ic-call-back:before {
+  content: "\e930";
+}
+.icon-ic-draft:before {
+  content: "\e931";
+}
+.icon-ic-job-search:before {
+  content: "\e932";
+}
+.icon-ic-clock:before {
+  content: "\e933";
+}
+.icon-ic-clockforward:before {
+  content: "\e934";
+}
+.icon-ic-ligthning:before {
+  content: "\e935";
+}
+.icon-ic-member-search:before {
+  content: "\e936";
+}
+.icon-ic-wavinghand:before {
+  content: "\e92f";
+}
+.icon-ic-finger-up:before {
+  content: "\e914";
+}
+.icon-ic-nomail:before {
+  content: "\e92b";
+}
+.icon-ic-tc:before {
+  content: "\e92c";
+}
+.icon-ic-index-in:before {
+  content: "\e92d";
+}
+.icon-ic-index-out:before {
+  content: "\e92e";
+}
+.icon-ic-mobile:before {
+  content: "\e92a";
+}
+.icon-ic-availability:before {
+  content: "\e929";
+}
+.icon-ic-status:before {
+  content: "\e91f";
+}
+.icon-ic-removeteam:before {
+  content: "\e91e";
+}
+.icon-ic-inviteteam:before {
+  content: "\e91c";
+}
+.icon-ic-permissions:before {
+  content: "\e91d";
+}
+.icon-ic-fa-hosco:before {
+  content: "\e91b";
+}
+.icon-ic-burger:before {
+  content: "\e913";
+}
+.icon-ic-round-fb:before {
+  content: "\e915";
+}
+.icon-ic-round-hosco:before {
+  content: "\e916";
+}
+.icon-ic-round-insta:before {
+  content: "\e917";
+}
+.icon-ic-round-linkd:before {
+  content: "\e918";
+}
+.icon-ic-round-twtt:before {
+  content: "\e919";
+}
+.icon-ic-round-yt:before {
+  content: "\e91a";
+}
+.icon-ic-spj:before {
+  content: "\e912";
+}
+.icon-ic-laurea:before {
+  content: "\e922";
+}
+.icon-ic-targeted:before {
+  content: "\e910";
+}
+.icon-ic-premiumlight:before {
+  content: "\e911";
+}
+.icon-ic-premium:before {
+  content: "\e920";
+}
+.icon-ic-premiumplus:before {
+  content: "\e921";
+}
+.icon-ic-thumbsup:before {
+  content: "\e923";
+}
+.icon-ic-handshake:before {
+  content: "\e924";
+}
+.icon-ic-love-thanks:before {
+  content: "\e925";
+}
+.icon-ic-hand-stop:before {
+  content: "\e926";
+}
+.icon-ic-neck-tie:before {
+  content: "\e927";
+}
+.icon-ic-who:before {
+  content: "\e928";
+}
+.icon-ic-jobalert-modal:before {
+  content: "\e90e";
+}
+.icon-ic-update:before {
+  content: "\e90f";
+}
+.icon-ic-hosco-shine:before {
+  content: "\e90c";
+}
+.icon-ic-rocket2:before {
+  content: "\e90d";
+}
+.icon-ic-erase:before {
+  content: "\e907";
+}
+.icon-ic-jobapp-rejected:before {
+  content: "\e908";
+}
+.icon-ic-jobapp-sent:before {
+  content: "\e909";
+}
+.icon-ic-jobapp:before {
+  content: "\e90a";
+}
+.icon-ic-remove:before {
+  content: "\e90b";
+}
+.icon-hoscicons_story:before {
+  content: "\e900";
+}
+.icon-hoscicons_cross:before {
+  content: "\e901";
+}
+.icon-hoscicons_heartbroken:before {
+  content: "\e902";
+}
+.icon-hoscicons_messagesent:before {
+  content: "\e903";
+}
+.icon-hoscicons_nationality:before {
+  content: "\e904";
+}
+.icon-hoscicons_review:before {
+  content: "\e905";
+}
+.icon-hoscicons_login:before {
+  content: "\e906";
+}
