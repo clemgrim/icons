@@ -1,0 +1,8 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "main": "style.scss",
+  "repository": "git@github.com:clemgrim/icons.git",
+  "author": "Clement Grimault <clement@hosco.com>",
+  "license": "MIT"
+}
